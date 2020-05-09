@@ -105,7 +105,7 @@ En la educación
  - Fomentar el trabajo colaborativo entre los propios estudiantes (a traves de Wikis, Blogs, foro, etc.)
 
 ## Web 1.0 development by
-- Cristhian Florencia Saltos
+- Cristhian Florencia Saltos (Original)
 
 ### Definition
 
