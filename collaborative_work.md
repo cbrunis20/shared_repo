@@ -149,4 +149,17 @@ La Web 1.0 excedió todos sus cálculos, y pasó a convertirse en un sistema est
 
 - Pocos productores de contenidos
 
+## Web 1.0
+- JAJAYRA CASTILLO CASTILLO 
+## Definición
+- La Web 1.0 se la define mediante el lenguaje de HTML (HyperText Markup Language), derivado del XML, y nace al amparo de la comunidad científica como una forma estandarizada de intercambiar conocimientos independientemente del sistema informático utilizado.
+## Prinipales cracteristicas del Web 1.0
+- Se puede acceder a través de la red. 
+- El Internet se convie en un servidor de conocimiento estático.
+- El acceso a internet es limitado.
+- Las páginas son creadas con código HTMl.
+- A los usuarios se los denomina "lectores consumidores".
+- Escasos creadores de contenido.
+
+
 
