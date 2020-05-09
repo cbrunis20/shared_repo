@@ -16,6 +16,11 @@
 ## Dot-com bubble by Participant 2
 
 ### Causes
+- En los mercados financieros, este término se asoció al auge de las empresas punto-com. Esto incluyó la aparición del Nasdaq como rival a la bolsa tradicional de Wall Street. El Nasdaq (National Association of Securities Dealers Automated Quotation) es la Bolsa de valores electrónica y automatizada más grande de los Estados Unidos, con más de 3.800 compañías y corporaciones.
+
+- Históricamente, la burbuja de las punto-com fue similar al de otra serie de desarrollos tecnológicos que tuvieron gran éxito en el pasado. Un ejemplo son las originadas por ferrocarriles, los automóviles, la radio, la electrónica y los ordenadores personales.
+
+- El modelo de negocio que solían utilizar las empresas punto-com se basaba en el aprovechamiento de Internet para conseguir cuota de mercado aunque inicialmente estas entidades no generasen beneficios. Estas empresas esperaban llegar a conseguir tal fama que en un futuro podrían hacer frente a sus gastos y conseguir beneficios de sus servicios.
 
 ### Recomendations
 
