@@ -26,8 +26,6 @@
 
 - El modelo de negocio que solían utilizar las empresas punto-com se basaba en el aprovechamiento de Internet para conseguir cuota de mercado aunque inicialmente estas entidades no generasen beneficios. Estas empresas esperaban llegar a conseguir tal fama que en un futuro podrían hacer frente a sus gastos y conseguir beneficios de sus servicios.
 
-### Recomendations
-
 
 ## Web 4.0 development by 
 
