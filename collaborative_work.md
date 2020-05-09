@@ -20,21 +20,52 @@
 ### Recomendations
 
 
-## Web 4.0 by Participant 3
+## Web 4.0 development by 
+
+Cristhian Florencia Saltos
+
+### Definitcion
+
+Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades. Es un nuevo modelo de Internet que nace con el objetivo de resolver las limitaciones de la red a día de hoy.
+Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades.
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
- - ...
+-  Accesibilidad
+-  Acceso de información, imágenes, audio, vídeos, juegos, etc.
+-  Hiperactividad
+-  Captura la atención
+-  Se pueden realizar pagos, trámites y en algunas escuelas existe el servicio de tareas y notas
 
 ### Example of opportunities
+
+– iTunes, el servicio de venta de música online de Apple que está funcionando muy bien, pese al P2P.
+
+– Netflix, el servicio de alquiler de películas que tiene ya 23 millones de clientes en EE.UU.
+
+– Kindle, el ebook de Amazon que con su éxito ha propulsado a la firma norteamericana hasta valores nunca vistos en Bolsa
+
+– Las apps de iPhone, que también están convirtiendo a este teléfono en una mina de oro, en la medida en que el fabricante del terminal se queda con el 30% de cada operación.
+
+– Periódicos y revistas como el New York Times o el Economist, que han conseguido rentabilizar sus operaciones online merced a las cuentas de pago.
+
+– Linkedin, que tiene en las cuentas premium su principal fuente de ingresos.
+
 
 
 ## Web 3.0 by Participant 4
+- Christian Apolinario Brunis
 
 ### Main features
 
 ### Example of opportunities
+- Redes sociales
+- Servicios de intercambio
+- Mensajería
+- Almacenamiento
+- Seguros y banca
+- Streaming (Video y Música)
+- Trabajo remoto
+- Navegador
 
 
 ## Web 2.0 by Omar Morejon Reyes
@@ -55,13 +86,37 @@ En la educación
  - Crear aulas virtuales.
  - Fomentar el trabajo colaborativo entre los propios estudiantes (a traves de Wikis, Blogs, foro, etc.)
 
-## Web 1.0 by Participant 6
-- Cristhian Florencia
-- Omar Morejon
-- Douglas Apolinario
-- Jajaira Castillo
+## Web 1.0 development by
+- Cristhian Florencia Saltos
+
+### Definition
+
+Se define mediante el lenguaje de marcas HTML (HyperText Markup Language), derivado del XML, y nace al amparo de la comunidad científica como una forma estandarizada de intercambiar conocimientos independientemente del sistema informático utilizado.
+
+A lo largo de su trabajo en el CERN, Tim Berners-Lee constató como le era de dificultoso intercambiar información con otros científicos de otros centros con sistemas informáticos distintos, por lo que ideó un sistema para facilitar y estandarizar dicha práctica.
+
+La Web 1.0 excedió todos sus cálculos, y pasó a convertirse en un sistema estandarizado para la publicación de cualquier tipo de información, científica o no, para consumo corporativo o particular.
+
 
 ### Main features
+
+- Es la mas básica de todas ya que solamente incluyen navegadores de solo texto. 
+
+- Después de la aparición de HTML se hizo un poco mas agradable a la vista dando paso a un nuevo navegador visual es decir ya no textual. 
+
+- Pero lo que mas resalta la WEB 1.0 es que en sus inicios era solo de lectura, los lectores o usuarios no podian interactuar con el contenido, esto implicaba nada de comentarios, respuestas, citas, entre otros. 
+
+- La WEB 1.0 solo estaba limitado a lo que el WEBMASTER sube o publica en dicha página web. 
+
+- Al surgimiento de HTML se emplearon imágenes en páginas web, pero dichas imágenes eran estáticas, no tenian movimiento, no eran dinámicas por el usuario que la visitaba. 
+
+- Se usaba FRAMESETS o MARCOS. 
+
+- Se empleaban botones GIF, casi siempre en una resolución de 88x31 píxels. 
+
+
+### Example of opportunities
+
 - Presencia informativa y accesible a través de la red.
 
 - Internet se convierte en un servidor de conocimiento estático de acceso limitado por razones técnicas, económicas y geográficas.
@@ -75,4 +130,5 @@ En la educación
 - Los usuarios son “lectores consumidores”
 
 - Pocos productores de contenidos
-### Example of opportunities
+
+
