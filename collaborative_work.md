@@ -16,6 +16,8 @@
 ## Dot-com bubble by Participant 2
 
 ### Causes
+- Una de las causas principales en el desarrollo de la burbuja fue la aparición, desde los 80 hasta principio de los 90, de empresas que alcanzaron un notable éxito, tales como Apple, Microsoft y Yahoo! Esta evolución fue motivada por el progreso tecnológico, acompañado de la globalización económica.
+
 - En los mercados financieros, este término se asoció al auge de las empresas punto-com. Esto incluyó la aparición del Nasdaq como rival a la bolsa tradicional de Wall Street. El Nasdaq (National Association of Securities Dealers Automated Quotation) es la Bolsa de valores electrónica y automatizada más grande de los Estados Unidos, con más de 3.800 compañías y corporaciones.
 
 - Históricamente, la burbuja de las punto-com fue similar al de otra serie de desarrollos tecnológicos que tuvieron gran éxito en el pasado. Un ejemplo son las originadas por ferrocarriles, los automóviles, la radio, la electrónica y los ordenadores personales.
