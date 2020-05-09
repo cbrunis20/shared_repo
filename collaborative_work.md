@@ -149,6 +149,7 @@ La Web 1.0 excedió todos sus cálculos, y pasó a convertirse en un sistema est
 
 - Pocos productores de contenidos
 
+
 ## Web 1.0
 - JAJAYRA CASTILLO CASTILLO 
 ## Definición
@@ -160,6 +161,7 @@ La Web 1.0 excedió todos sus cálculos, y pasó a convertirse en un sistema est
 - Las páginas son creadas con código HTMl.
 - A los usuarios se los denomina "lectores consumidores".
 - Escasos creadores de contenido.
+
 
 
 
