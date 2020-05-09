@@ -20,30 +20,37 @@
 ### Recomendations
 
 
-## Web 4.0 by Participant 3
+## Web 4.0 development by 
+
+Cristhian Florencia Saltos
+
+### Definitcion
+
+Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades. Es un nuevo modelo de Internet que nace con el objetivo de resolver las limitaciones de la red a día de hoy.
+Web 4.0 es una capa de integración necesaria para la explotación de la Web semántica y sus enormes posibilidades.
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
- - ...
+-  Accesibilidad
+-  Acceso de información, imágenes, audio, vídeos, juegos, etc.
+-  Hiperactividad
+-  Captura la atención
+-  Se pueden realizar pagos, trámites y en algunas escuelas existe el servicio de tareas y notas
 
 ### Example of opportunities
+
+– iTunes, el servicio de venta de música online de Apple que está funcionando muy bien, pese al P2P.
+– Netflix, el servicio de alquiler de películas que tiene ya 23 millones de clientes en EE.UU.
+– Kindle, el ebook de Amazon que con su éxito ha propulsado a la firma norteamericana hasta valores nunca vistos en Bolsa
+– Las apps de iPhone, que también están convirtiendo a este teléfono en una mina de oro, en la medida en que el fabricante del terminal se queda con el 30% de cada operación.
+– Periódicos y revistas como el New York Times o el Economist, que han conseguido rentabilizar sus operaciones online merced a las cuentas de pago.
+– Linkedin, que tiene en las cuentas premium su principal fuente de ingresos.
+
 
 
 ## Web 3.0 by Participant 4
 - Christian Apolinario Brunis
 
 ### Main features
-
-- La web 3.0 busca crear un nuevo sistema de clasificación de páginas web estrechamente ligado a las necesidades y características de los usuarios. De esta forma, al conectarse a Internet, los usuarios pueden disfrutar de una plataforma mucho más personalizada.
-
-- Crecen las comunidades sociales en la red, tanto en número como en nivel de complejidad. Aumentan también las formas de conectarse a estas redes.
-
-- Las nuevas funcionalidades de la Web 3.0 requieren de un Internet mucho más rápido. En respuesta a esto, las principales operadoras de telecomunicaciones han implementado conexiones de banda ancha para garantizar una experiencia de uso más satisfactoria para los usuarios.
-
-- La Web 3.0 mejora las posibilidades de los usuarios de conectarse no sólo a través de las computadoras de escritorio y laptops, sino también a través de celulares, tablets, relojes y más dispositivos.
-
-- Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
 
 ### Example of opportunities
 - Redes sociales
