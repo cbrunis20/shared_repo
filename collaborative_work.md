@@ -39,10 +39,15 @@ Web 4.0 es una capa de integración necesaria para la explotación de la Web sem
 ### Example of opportunities
 
 – iTunes, el servicio de venta de música online de Apple que está funcionando muy bien, pese al P2P.
+
 – Netflix, el servicio de alquiler de películas que tiene ya 23 millones de clientes en EE.UU.
+
 – Kindle, el ebook de Amazon que con su éxito ha propulsado a la firma norteamericana hasta valores nunca vistos en Bolsa
+
 – Las apps de iPhone, que también están convirtiendo a este teléfono en una mina de oro, en la medida en que el fabricante del terminal se queda con el 30% de cada operación.
+
 – Periódicos y revistas como el New York Times o el Economist, que han conseguido rentabilizar sus operaciones online merced a las cuentas de pago.
+
 – Linkedin, que tiene en las cuentas premium su principal fuente de ingresos.
 
 
@@ -81,13 +86,21 @@ A lo largo de su trabajo en el CERN, Tim Berners-Lee constató como le era de di
 
 La Web 1.0 excedió todos sus cálculos, y pasó a convertirse en un sistema estandarizado para la publicación de cualquier tipo de información, científica o no, para consumo corporativo o particular.
 
+
 ### Main features
+
 - Es la mas básica de todas ya que solamente incluyen navegadores de solo texto. 
+
 - Después de la aparición de HTML se hizo un poco mas agradable a la vista dando paso a un nuevo navegador visual es decir ya no textual. 
+
 - Pero lo que mas resalta la WEB 1.0 es que en sus inicios era solo de lectura, los lectores o usuarios no podian interactuar con el contenido, esto implicaba nada de comentarios, respuestas, citas, entre otros. 
+
 - La WEB 1.0 solo estaba limitado a lo que el WEBMASTER sube o publica en dicha página web. 
+
 - Al surgimiento de HTML se emplearon imágenes en páginas web, pero dichas imágenes eran estáticas, no tenian movimiento, no eran dinámicas por el usuario que la visitaba. 
+
 - Se usaba FRAMESETS o MARCOS. 
+
 - Se empleaban botones GIF, casi siempre en una resolución de 88x31 píxels. 
 
 
