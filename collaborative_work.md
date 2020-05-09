@@ -31,6 +31,7 @@
 
 
 ## Web 3.0 by Participant 4
+- Christian Apolinario Brunis
 
 ### Main features
 
