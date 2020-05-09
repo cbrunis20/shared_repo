@@ -92,6 +92,7 @@ Se caracteriza principalmente por la participación del usuario como contribuido
  
 ### Example of opportunities
 La web 2.0 incluía tecnologías y servicios y consistía en blogs, audio, chats, marcadores, calendario, comercio electrónico, correo electrónico, juegos, aprendizaje electrónico, comunicación, foros, mapeo, wiki multimedia, portales, distribución muy simple (RSS), Mashups, etiquetas, etc.
+
 En la educación
  - Crear aulas virtuales.
  - Fomentar el trabajo colaborativo entre los propios estudiantes (a traves de Wikis, Blogs, foro, etc.)
