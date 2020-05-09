@@ -54,9 +54,6 @@
 
 ## Web 1.0 by Participant 6
 - Cristhian Florencia
-- Omar Morejon
-- Douglas Apolinario
-- Jajaira Castillo
 
 ### Main features
 - Presencia informativa y accesible a través de la red.
@@ -73,3 +70,4 @@
 
 - Pocos productores de contenidos
 ### Example of opportunities
+
