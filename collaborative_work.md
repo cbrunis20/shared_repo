@@ -15,6 +15,8 @@
 
 ## Dot-com bubble by Participant 2
 
+- Christian Apolinario Brunis
+
 ### Causes
 - Una de las causas principales en el desarrollo de la burbuja fue la aparición, desde los 80 hasta principio de los 90, de empresas que alcanzaron un notable éxito, tales como Apple, Microsoft y Yahoo! Esta evolución fue motivada por el progreso tecnológico, acompañado de la globalización económica.
 
