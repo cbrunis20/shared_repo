@@ -37,12 +37,23 @@
 ### Example of opportunities
 
 
-## Web 2.0 by Participant 5
+## Web 2.0 by Omar Morejon Reyes
 
 ### Main features
-
+Se caracteriza principalmente por la participación del usuario como contribuidor activo y no solo como espectador de los contenidos de la Web (usuario pasivo). Esto queda reflejado en aspectos como: 
+ - El auge de los blogs.
+ - El auge de las redes sociales.
+ - Las webs creadas por los usuarios, usando plataformas de auto-edición.
+ - El contenido agregado por los usuarios como valor clave de la Web.
+ - El etiquetado colectivo (folcsonomía, marcadores sociales...).
+ - La importancia del long tail.
+ - Aplicaciones web dinámicas.
+ 
 ### Example of opportunities
-
+La web 2.0 incluía tecnologías y servicios y consistía en blogs, audio, chats, marcadores, calendario, comercio electrónico, correo electrónico, juegos, aprendizaje electrónico, comunicación, foros, mapeo, wiki multimedia, portales, distribución muy simple (RSS), Mashups, etiquetas, etc.
+En la educación
+ - Crear aulas virtuales.
+ - Fomentar el trabajo colaborativo entre los propios estudiantes (a traves de Wikis, Blogs, foro, etc.)
 
 ## Web 1.0 by Participant 6
 - Cristhian Florencia
