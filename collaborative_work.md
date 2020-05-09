@@ -35,6 +35,14 @@
 ### Main features
 
 ### Example of opportunities
+- Redes sociales
+- Servicios de intercambio
+- Mensajería
+- Almacenamiento
+- Seguros y banca
+- Streaming (Video y Música)
+- Trabajo remoto
+- Navegador
 
 
 ## Web 2.0 by Participant 5
