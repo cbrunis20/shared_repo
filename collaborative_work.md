@@ -35,6 +35,16 @@
 
 ### Main features
 
+- La web 3.0 busca crear un nuevo sistema de clasificación de páginas web estrechamente ligado a las necesidades y características de los usuarios. De esta forma, al conectarse a Internet, los usuarios pueden disfrutar de una plataforma mucho más personalizada.
+
+- Crecen las comunidades sociales en la red, tanto en número como en nivel de complejidad. Aumentan también las formas de conectarse a estas redes.
+
+- Las nuevas funcionalidades de la Web 3.0 requieren de un Internet mucho más rápido. En respuesta a esto, las principales operadoras de telecomunicaciones han implementado conexiones de banda ancha para garantizar una experiencia de uso más satisfactoria para los usuarios.
+
+- La Web 3.0 mejora las posibilidades de los usuarios de conectarse no sólo a través de las computadoras de escritorio y laptops, sino también a través de celulares, tablets, relojes y más dispositivos.
+
+- Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0
+
 ### Example of opportunities
 - Redes sociales
 - Servicios de intercambio
