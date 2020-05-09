@@ -1,16 +1,27 @@
 # Summary of Activity 1
 
 
-## Web Neutrality by Participant 1
+## Web Neutrality by Jajayra Castillo Castillo 
 
 ### What is it?
+  - Se basa en que los proveedores de red no brindan privilegios a ningún usuario de la red por encima de otros, al dar acceso a los contenidos. Basándose en este principio, los usuarios no notan diferencias al navegar en dos páginas o al descargar archivos iguales, es decir si dos archivos son de igual peso son tratados como iguales sin tomar en cuenta el origen. 
 
 ### Advantages
-  - Advantage 1
-  - Advantage 2
-  - ...
+  - Bloqueo y filtrado
+  - Vías rápidas de internet
+  - Estrangulamiento (throttling)
+  - Servicios “zero rating”
+  - Competencia de mercado
+  - Igualdad de condiciones del servicio de internet entre proveedores y usuarios, sin importar el tráfico
+  - Las actividades ilegales son altamente vigiladas
+  - Los proveedores de servicios de Internet serian vistos como proveedores de servicios públicos
 
 ### Disadvantages
+  - Alto consumo de datos sin compensación
+  - Al reducir los ingresos por el uso de Internet limita mejorar la infraestructura
+  - Lo primordial seria asignad por el ISP
+  - El acceso a internet no es gratuito
+  - Al subir el precio a las compañías los servicios subirían sus precios también
 
 
 ## Dot-com bubble by Participant 2
